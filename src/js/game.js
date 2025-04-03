@@ -17,5 +17,5 @@ export function readGameSaving() {
 }
 
 export function writeGameSaving() {
-
+    
 }
